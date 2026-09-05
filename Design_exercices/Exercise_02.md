@@ -1,0 +1,3 @@
+Your current organization wants to connect its on-premises services to the cloud. Since you've been talking wonders about your AWS skills, your team leader has chosen you to investigate and design the solution.
+
+You have decided that the best solution is a Site-to-Site VPN. You will start by creating an infrastructure diagram explaining the integration. On one end of the VPN connection, you will place the on-premises data centers with a Customer Gateway. On the other end, you will place a special kind of gateway attached to a VPC, called a Virtual Private Gateway. T
